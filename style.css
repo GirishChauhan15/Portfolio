@@ -649,6 +649,7 @@ h4 {
   }
   .skills_info {
     width: 30%;
+    opacity: 1;
   }
   .skill_name {
     font-size: 2rem;
@@ -664,6 +665,7 @@ h4 {
   }
   .project {
     width: 32%;
+    opacity: 1;
   }
 
   .project_two-title {
