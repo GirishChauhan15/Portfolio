@@ -1,7 +1,7 @@
 const width = window.innerWidth;
 if (window.innerWidth >= 1100) {
   ScrollReveal({
-    reset: true,
+    reset: false,
     distance: "50px",
     duration: 3000,
     delay: 400,
